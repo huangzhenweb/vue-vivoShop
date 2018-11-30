@@ -5,7 +5,7 @@
 		</div>
 		<div class="main">
 			<div class="img">
-				<img src="../../static/img/jane1 (2).jpg" alt="" />
+				<img src="../../static/img/bg-1.jpg" alt="" />
 			</div>
 			<p class="name">{{name}}</p>
 			<p class="Signature">{{Signature}}</p>
