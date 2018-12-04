@@ -34,7 +34,7 @@
 			return{
 				title:'个人主页',
 				name:'jane',
-				Signature:'你陪我跨过黑暗，我陪你走向天亮'
+				Signature:'vue做的练习项目，欢迎提出问题，谢谢！'
 			}
 		},
 		methods:{
